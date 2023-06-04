@@ -10,12 +10,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E? style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4? style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91? style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E? style=flat-square&logo=Figma&logoColor=white"/></p>
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuKwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 
 
 
