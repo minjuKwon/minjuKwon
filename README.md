@@ -18,8 +18,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cocr7)](https://solved.ac/cocr7)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjuKwon&show_icons=true&theme=buefy)
-
 </div>
 
 
