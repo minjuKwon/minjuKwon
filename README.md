@@ -18,7 +18,17 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cocr7)](https://solved.ac/cocr7)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/minjuKwon"
+  width="600"
+  height="300"
+/>
+</a>
+
 </div>
+
+
 
 
 
